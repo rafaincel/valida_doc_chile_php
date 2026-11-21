@@ -54,3 +54,7 @@ La función `valida_doc_chile_query(...)` retorna un string con uno de los sigui
 ## Más información
 
 Esta librería usa la API gratuita de consulta de documentos proporcionada por [impishapi.com](https://impishapi.com/vigencia-documento-identidad/).
+
+## Licencia
+
+Esta librería se distribuye bajo la [licencia MIT](LICENSE).

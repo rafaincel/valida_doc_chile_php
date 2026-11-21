@@ -2,6 +2,7 @@
     "name": "impish/valida_doc_chile",
     "description": "Valida documentos de identidad de Chile",
     "type": "library",
+    "license": "MIT",
     "require": {
         "php": ">=5.5.0"
     },
